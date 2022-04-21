@@ -71,6 +71,6 @@
     "shx": "^0.3.2",
     "superstatic": "^7.0.0",
     "terser": "^4.8.0",
-    "workbox-cli": "^4.3.1"
+    "workbox-cli": "^5.0.0"
   }
 }
