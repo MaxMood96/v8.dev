@@ -44,7 +44,7 @@
     "@browser-logos/safari": "^2.1.0",
     "autoprefixer": "^9.8.2",
     "cssnano": "^4.1.10",
-    "dark-mode-toggle": "^0.7.2",
+    "dark-mode-toggle": "^0.8.0",
     "firebase-tools": "^8.5.0",
     "get-video-dimensions": "^1.0.0",
     "glob": "^7.1.6",
