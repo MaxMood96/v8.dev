@@ -69,7 +69,7 @@
     "postcss-cli": "^9.1.0",
     "postcss-custom-properties": "^12.1.8",
     "shx": "^0.3.4",
-    "superstatic": "^8.0.0",
+    "superstatic": "^9.0.1",
     "terser": "^5.14.1",
     "workbox-cli": "^4.3.1"
   }
