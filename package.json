@@ -35,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
     "@browser-logos/chrome": "^2.0.0",
@@ -45,7 +45,7 @@
     "autoprefixer": "^10.4.7",
     "cssnano": "^5.1.11",
     "dark-mode-toggle": "^0.10.0",
-    "firebase-tools": "^11.1.0",
+    "firebase-tools": "^12.4.5",
     "get-video-dimensions": "^1.0.0",
     "glob": "^8.0.3",
     "he": "^1.2.0",
@@ -71,6 +71,6 @@
     "shx": "^0.3.4",
     "superstatic": "^8.0.0",
     "terser": "^5.14.1",
-    "workbox-cli": "^4.3.1"
+    "workbox-cli": "^6.3.0"
   }
 }
