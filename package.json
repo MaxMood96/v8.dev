@@ -68,7 +68,7 @@
     "post-npm-install": "^2.0.0",
     "postcss-cli": "^9.1.0",
     "postcss-custom-properties": "^12.1.8",
-    "shx": "^0.3.4",
+    "shx": "^0.4.0",
     "superstatic": "^8.0.0",
     "terser": "^5.14.1",
     "workbox-cli": "^4.3.1"
